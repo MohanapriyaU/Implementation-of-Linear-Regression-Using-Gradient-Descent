@@ -91,11 +91,7 @@ predict2=predict(np.array ([1,7]), theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
-![image](https://user-images.githubusercontent.com/116153626/230776584-c789f792-7cd8-4a14-8487-eea8bc5c8d58.png)
-![image](https://user-images.githubusercontent.com/116153626/230776614-47b432e9-557e-44f0-abf4-2508ed8370c3.png)
-![image](https://user-images.githubusercontent.com/116153626/230776634-68cf4539-96c8-414e-a09f-781cbfc160a5.png)
-![image](https://user-images.githubusercontent.com/116153626/230776651-f13149ac-5be5-435b-ab61-52cb4bd7d119.png)
-![image](https://user-images.githubusercontent.com/116153626/230776679-8582f971-0501-4cea-be06-f3b775f9856f.png)
+![image](https://user-images.githubusercontent.com/116153626/230776782-03c35c5b-9322-4ce8-86b9-9f6417ed17e0.png)
 
 
 
